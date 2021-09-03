@@ -1,9 +1,8 @@
  commit thre file file1,file2,fil
-   file upda
-   
-   
-
+   file update
    make changes 
    on same line in amster ese are newchanges
+   
+   direct changes in remote repo
 
 
