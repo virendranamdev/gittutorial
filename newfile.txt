@@ -2,4 +2,5 @@
    file upda
    
    
-   these are newchanges 
+   make changes 
+   on same line in amster ese are newchanges 
