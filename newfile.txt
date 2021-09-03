@@ -1,2 +1,5 @@
- commit three file file1,file2,fil
-   file updating 
+ commit thre file file1,file2,fil
+   file upda
+   
+   
+   these are newchanges 
